@@ -1,6 +1,6 @@
 import './App.css'
-import editIcon from "../src/assets/editIcon.svg"
-import trashIcon from "../src/assets/tabler_trash.svg"
+import editIcon from "../src/assets/pen.icon.svg"
+import trashIcon from "../src/assets/trash.icon.svg"
 import { use, useState } from 'react';
 
 function App() {
